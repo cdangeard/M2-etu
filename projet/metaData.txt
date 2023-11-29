@@ -1,0 +1,34 @@
+Cookieverse
+
+Les données rassemblées sur la qualité des cookies dans les différentes versions de la terre du multiverse.
+
+## Columns
+
+*   `id` - a unique identifier for each data point
+*   `earthName` - name of the version of earth
+*   `dateOfDiscovery` - date of discovery
+*   `discovererName` - name of the discoverer
+*   ` prec_noix ` - Presence of nuts
+*   ` prec_chocolat ` - Presence of chocolate
+*   ` prec_noisettes ` - Presence of hazelnuts
+*   ` prec_raisins ` - Presence of raisins
+*   ` prec_fruits_confits ` - Presence of candied fruits
+*   ` prec_lait ` - Presence of milk
+*   ` ph_eau ` - PH of raw water
+*   ` pop ` - Humanoïd population
+*   ` prop_grand_meres ` - Proportion of grandmothers in humanoid population
+*   ` freq_boulangeries ` - Frequency of bakeries
+*   ` nb_visites_hebdo ` - Number of weekly visits to bakeries
+*   ` prix ` - Price of a cookie
+*   ` nb_bras ` - Number of arms of the humanoid
+*   ` nb_doigts_main ` - Number of fingers on the main hand of the humanoid species 
+*   ` nb_dents ` - Number of teeth of the humanoid species (including wisdom teeth)
+*   ` taux_oxygene_atm ` - Oxygen rate in the atmosphere
+*   ` dist_lune_km ` - Distance between the planet and the moon (in km)
+*   ` dist_soleil_km ` - Distance between the planet and the sun (in km)
+*   ` dist_centre_galaxie_ly ` - Distance between the planet and the center of the galaxy (in light years)
+*   ` niveau_techno ` - Technological advancement of the humanoid species
+*   ` nb_guerres_mondiales ` - Number of world wars
+*   ` methode_cuisson ` - Method of cooking the cookie
+*   ` nb_cookies_vendus ` - Number of cookies sold per year on the planet
+*   ` cookie_quality ` - Cookie quality (yum or yuck)
